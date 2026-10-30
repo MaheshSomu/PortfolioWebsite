@@ -8,7 +8,7 @@ export const portfolio = {
   phone: '+91 8886888139',
   github: 'https://github.com/MaheshSomu',
   linkedin: 'https://www.linkedin.com/in/mahesh-somu-533044315/',
-  resume: '/MaheshResume.pdf',
+  resume: '/Somu_Mahesh_Resume.pdf',
   leetcode: 'https://leetcode.com/u/MaheshSomu/',
   hackerrank: 'https://www.hackerrank.com/profile/somumahesh8886',
   githubContributions: 'https://github.com/MaheshSomu',
@@ -201,14 +201,14 @@ export const portfolio = {
   achievements: [
     { label: 'Hackathon Finalist', icon: 'trophy' },
     { label: '350+ Coding Problems', icon: 'code' },
-    { label: '5-Star HackerRank', icon: 'star' },
+    { label: 'AWS Cloud Practitioner', icon: 'certificate' },
     { label: 'Microsoft Azure Fundamentals', icon: 'certificate' },
     { label: 'Technical Event Winner', icon: 'award' },
   ],
 
   certifications: [
-    { name: 'Microsoft Azure Fundamentals', issuer: 'Microsoft', year: '2025' },
-    { name: 'Responsive Web Design', issuer: 'freeCodeCamp', year: '2024' },
+    { name: 'Microsoft Azure Fundamentals', issuer: 'Microsoft', year: '2026' },
+    { name: 'AWS Cloud Practitioner', issuer: 'Amazon Web Services', year: '2026' },
   ],
 
   codingProfiles: {
@@ -241,7 +241,7 @@ export const portfolio = {
   },
 
   seo: {
-    title: 'Mahesh — Fullstack Developer | MERN',
+    title: 'Mahesh — Fullstack Developer | Java',
     description:
       'Portfolio of Mahesh, a fullstack developer specializing in React.js, JavaScript and modern web development.',
     ogImage: '/og-image.png',
